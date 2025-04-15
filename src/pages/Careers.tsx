@@ -52,7 +52,7 @@ const jobOpenings: CareerCardProps[] = [
       'https://forms.office.com/Pages/ResponsePage.aspx?id=61OQyKYY8ECe51tGnZjnmkNfCDCbpxNMp8HNi9gNfO1UMUZRUDNETTZITU9WWEdLOU03WlRZVEtEMi4u',
   },
   {
-    title: 'Offensive Security Intern',
+    title: 'Ethical Hacking Intern',
     description: 'Join our security team to identify vulnerabilities and strengthen our defense systems.',
     responsibilities: [
       'Conduct penetration testing',
