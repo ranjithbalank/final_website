@@ -209,11 +209,11 @@ const Services: React.FC = () => {
                 application, we've got you covered.
               </p>
               <div className="grid grid-cols-2 gap-4 mb-6">
-                <div className="bg-develup-gray p-4 rounded-lg">
+                <div className="bg-develup-gray p-4 rounded-lg shadow-lg shadow-blue-800/20">
                   <h4 className="font-semibold mb-2">Technologies</h4>
                   <p className="text-sm text-gray-400">React, Vue, Angular, Node.js</p>
                 </div>
-                <div className="bg-develup-gray p-4 rounded-lg">
+                <div className="bg-develup-gray p-4 rounded-lg shadow-lg shadow-blue-800/20">
                   <h4 className="font-semibold mb-2">Timeline</h4>
                   <p className="text-sm text-gray-400">4-12 weeks</p>
                 </div>
