@@ -43,7 +43,7 @@ const jobOpenings: CareerCardProps[] = [
       'Optimize application performance',
     ],
     requirements: [
-      'Knowledge of server-side languages (Node.js, Python, etc.)',
+      'Knowledge of server-side languages ',
       'Basic understanding of databases',
       'Familiarity with API design',
       'Problem-solving approach',
