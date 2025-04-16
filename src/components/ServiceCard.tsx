@@ -47,12 +47,12 @@ const ServiceCard: React.FC<ServiceCardProps> = ({
       </CardHeader>
       <CardContent>
         <CardDescription className="text-gray-400 mb-6">{description}</CardDescription>
-        <a href="/services">
+{/*         <a href="/services">
           <Button variant="outline" className="border-white/20 text-white hover:bg-white/5">
             Learn More
             <span className={`ml-2 text-xs opacity-0 transition-all duration-300 ${style.text} group-hover:opacity-100`}>→</span>
           </Button>
-        </a>
+        </a> */}
       </CardContent>
     </Card>
   );
