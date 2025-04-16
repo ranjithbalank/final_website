@@ -7,13 +7,15 @@ interface CareerCardProps {
   description: string;
   responsibilities: string[];
   requirements: string[];
+  formUrl: string;
 }
 
 const CareerCard: React.FC<CareerCardProps> = ({ 
   title, 
   description, 
   responsibilities,
-  requirements
+  requirements,
+  formUrl
 }) => {
   return (
     <Card className="bg-develup-gray border-none shadow-xl overflow-hidden group">
@@ -41,8 +43,13 @@ const CareerCard: React.FC<CareerCardProps> = ({
           </ul>
         </div>
         
-        <Button className="w-full bg-develup-blue hover:bg-develup-blue/80 text-white transition-all">
-          Apply Now
+        <Button 
+          className="w-full bg-develup-blue hover:bg-develup-blue/80 text-white transition-all"
+          asChild
+        >
+          <a href={formUrl} target="_blank" rel="noopener noreferrer">
+            Apply Now
+          </a>
         </Button>
       </CardContent>
     </Card>
