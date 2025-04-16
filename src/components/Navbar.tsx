@@ -63,15 +63,15 @@ const Navbar = () => {
             Careers
           </Link>
 
-          {/* <Link
+          <Link
             to="/contact"
             className="text-white/80 hover:text-white transition-colors px-4 py-2 rounded-full hover:bg-develup-darker/50"
           >
             Contact
-          </Link> */}
-          <a href="/contact">
+          </Link>
+          <a href="https://forms.office.com/pages/responsepage.aspx?id=61OQyKYY8ECe51tGnZjnmkNfCDCbpxNMp8HNi9gNfO1UNFBTQUhaMlMzWldIWDQzSEQ2QTNKVUw1SS4u&embed=true&route=shorturl">
             <Button className="bg-develup-blue hover:bg-develup-blue/80 text-white rounded-full px-6">
-              Contact
+              GET A QUOTE
             </Button>
           </a>
         </nav>
