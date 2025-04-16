@@ -81,7 +81,7 @@ const Index = () => {
               A Tech company building scalable digital products that drive innovation and growth.
             </p><br />
             <div className="flex flex-col sm:flex-row justify-center gap-4">
-              <a href="/services" className="button snake-border">
+              <a href="https://forms.office.com/pages/responsepage.aspx?id=61OQyKYY8ECe51tGnZjnmkNfCDCbpxNMp8HNi9gNfO1UNFBTQUhaMlMzWldIWDQzSEQ2QTNKVUw1SS4u&embed=true&route=shorturl" className="button snake-border">
                 Get Started
               </a>
             </div>
