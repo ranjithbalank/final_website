@@ -98,7 +98,7 @@ const jobOpenings: CareerCardProps[] = [
     ],
     requirements: [
       'Basic understanding of machine learning concepts',
-      'Familiarity with Python and libraries (e.g., TensorFlow, PyTorch)',
+      'Familiarity with Python and libraries ',
       'Knowledge of data preprocessing techniques',
       'Strong analytical and problem-solving skills',
     ],
