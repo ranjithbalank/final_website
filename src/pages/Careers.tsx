@@ -19,7 +19,7 @@ const jobOpenings: CareerCardProps[] = [
     title: 'Frontend Intern',
     description: 'Join our frontend development team and work on creating responsive, user-friendly interfaces.',
     responsibilities: [
-      'Develop web components using modern frameworks',
+      'Develop website using modern frameworks',
       'Implement responsive designs',
       'Collaborate with the UI/UX team',
       'Write clean, efficient code',
@@ -79,7 +79,7 @@ const jobOpenings: CareerCardProps[] = [
       'Maintain security documentation',
     ],
     requirements: [
-      'Understanding of security principles',
+      'Understanding of security  and defensive principles',
       'Knowledge of security tools and practices',
       'Analytical mindset',
       'Attention to detail',
