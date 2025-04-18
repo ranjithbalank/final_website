@@ -315,25 +315,25 @@ Erode, TN
           {/* Column 3 - Services */}
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">
-              <b>Services</b>
+              <b>Social Media</b>
             </h3>
             <ul className="space-y-2">
               <li>
-                <Link to="/services" className="text-gray-400 hover:text-white transition-colors">
-                  Web Development
+                <Link to="https://www.instagram.com/develupers._?igsh=M3F2ZWNwaWM5Z2E5&utm_source=qr" className="text-gray-400 hover:text-white transition-colors">
+                  Instagram
                 </Link>
               </li>
               <li>
-                <Link to="/services" className="text-gray-400 hover:text-white transition-colors">
-                  App Development
+                <Link to="https://x.com/develupers_?s=11" className="text-gray-400 hover:text-white transition-colors">
+                  X(Twitter)
                 </Link>
               </li>
               <li>
-                <Link to="/services" className="text-gray-400 hover:text-white transition-colors">
-                  Software Development
+                <Link to="https://www.linkedin.com/company/develupers-in" className="text-gray-400 hover:text-white transition-colors">
+                  LinkedIn
                 </Link>
               </li>
-              <li>
+{/*               <li>
                 <Link to="/services" className="text-gray-400 hover:text-white transition-colors">
                   Cybersecurity
                 </Link>
@@ -347,7 +347,7 @@ Erode, TN
                 <Link to="/services" className="text-gray-400 hover:text-white transition-colors">
                   UI/UX Design
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
 
