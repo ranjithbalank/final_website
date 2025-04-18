@@ -333,6 +333,14 @@ Erode, TN
                   LinkedIn
                 </Link>
               </li>
+              <li>
+                  <a
+                    href="https://wa.me/919487731171"  // Replace with your WhatsApp number
+                    className="text-gray-400 hover:text-white transition-colors"
+                  >
+                    WhatsApp Chat
+                  </a>
+              </li>
 {/*               <li>
                 <Link to="/services" className="text-gray-400 hover:text-white transition-colors">
                   Cybersecurity
