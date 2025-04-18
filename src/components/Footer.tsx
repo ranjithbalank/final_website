@@ -338,7 +338,15 @@ Erode, TN
                     href="https://wa.me/919487731171"  // Replace with your WhatsApp number
                     className="text-gray-400 hover:text-white transition-colors"
                   >
-                    WhatsApp Chat
+                    WhatsApp 
+                  </a>
+              </li>
+              <li>
+                  <a
+                    href="https://www.youtube.com/@Develupers_in"  // Replace with your WhatsApp number
+                    className="text-gray-400 hover:text-white transition-colors"
+                  >
+                    Youtube
                   </a>
               </li>
 {/*               <li>
@@ -381,7 +389,7 @@ Erode, TN
             <br />
             <p className="text-gray-400">
               Connect With Our Team <br />
-              <a href="tel:+917904372139" className="text-gray-200 hover:underline">
+              <a href="tel:+919487731171" className="text-gray-200 hover:underline">
                 <b>+91 9487731171</b>
               </a>
             </p>
