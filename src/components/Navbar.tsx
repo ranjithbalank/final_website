@@ -71,7 +71,7 @@ const Navbar = () => {
           </Link>
           <a href="https://forms.office.com/pages/responsepage.aspx?id=61OQyKYY8ECe51tGnZjnmkNfCDCbpxNMp8HNi9gNfO1UNFBTQUhaMlMzWldIWDQzSEQ2QTNKVUw1SS4u&embed=true&route=shorturl">
             <Button className="bg-develup-blue hover:bg-develup-blue/80 text-white rounded-full px-6">
-              GET A QUOTE
+              Get A Quote
             </Button>
           </a>
         </nav>
@@ -121,9 +121,11 @@ const Navbar = () => {
             >
               Contact
             </Link>
-            <Button className="bg-develup-blue hover:bg-develup-blue/80 text-white rounded-full w-full mt-4 py-6">
+             <a href="https://forms.office.com/pages/responsepage.aspx?id=61OQyKYY8ECe51tGnZjnmkNfCDCbpxNMp8HNi9gNfO1UNFBTQUhaMlMzWldIWDQzSEQ2QTNKVUw1SS4u&embed=true&route=shorturl">
+            <Button className="bg-develup-blue hover:bg-develup-blue/80 text-white rounded-full px-6">
               Get a Quote
             </Button>
+          </a>
           </div>
         </div>
       )}
